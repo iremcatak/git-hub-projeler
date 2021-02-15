@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders 19-bilgi yarışması(proje)", "ders 19-bilgi yarışması(proje)\ders 19-bilgi yarışması(proje).csproj", "{EB92614A-7CD9-43F2-9F6F-49BE96AC10D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB92614A-7CD9-43F2-9F6F-49BE96AC10D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB92614A-7CD9-43F2-9F6F-49BE96AC10D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB92614A-7CD9-43F2-9F6F-49BE96AC10D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB92614A-7CD9-43F2-9F6F-49BE96AC10D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1B6D6F4-FE91-4788-831A-177FBF002B27}
+	EndGlobalSection
+EndGlobal

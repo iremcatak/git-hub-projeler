@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders 28-pasta pişirme süreci", "ders 28-pasta pişirme süreci\ders 28-pasta pişirme süreci.csproj", "{757DA3C0-C08E-4572-B4CD-6D66D52CE60D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{757DA3C0-C08E-4572-B4CD-6D66D52CE60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{757DA3C0-C08E-4572-B4CD-6D66D52CE60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{757DA3C0-C08E-4572-B4CD-6D66D52CE60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757DA3C0-C08E-4572-B4CD-6D66D52CE60D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4A09E5A-BADE-4BFA-8883-E60B34A6802A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\YouthLeague_İremCatak\YouthLeague_İremCatak\bin\Debug\YouthLeague_İremCatak.exe.config
+C:\Users\User\source\repos\YouthLeague_İremCatak\YouthLeague_İremCatak\bin\Debug\YouthLeague_İremCatak.exe
+C:\Users\User\source\repos\YouthLeague_İremCatak\YouthLeague_İremCatak\bin\Debug\YouthLeague_İremCatak.pdb
+C:\Users\User\source\repos\YouthLeague_İremCatak\YouthLeague_İremCatak\obj\Debug\YouthLeague_İremCatak.csprojAssemblyReference.cache
+C:\Users\User\source\repos\YouthLeague_İremCatak\YouthLeague_İremCatak\obj\Debug\YouthLeague_İremCatak.Form1.resources
+C:\Users\User\source\repos\YouthLeague_İremCatak\YouthLeague_İremCatak\obj\Debug\YouthLeague_İremCatak.Properties.Resources.resources
+C:\Users\User\source\repos\YouthLeague_İremCatak\YouthLeague_İremCatak\obj\Debug\YouthLeague_İremCatak.csproj.GenerateResource.cache
+C:\Users\User\source\repos\YouthLeague_İremCatak\YouthLeague_İremCatak\obj\Debug\YouthLeague_İremCatak.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\YouthLeague_İremCatak\YouthLeague_İremCatak\obj\Debug\YouthLeague_İremCatak.exe
+C:\Users\User\source\repos\YouthLeague_İremCatak\YouthLeague_İremCatak\obj\Debug\YouthLeague_İremCatak.pdb
+C:\Users\User\Desktop\repos\YouthLeague_İremCatak\YouthLeague_İremCatak\obj\Debug\YouthLeague_İremCatak.csprojAssemblyReference.cache
+C:\Users\User\Desktop\repos\YouthLeague_İremCatak\YouthLeague_İremCatak\obj\Debug\YouthLeague_İremCatak.Form1.resources
+C:\Users\User\Desktop\repos\YouthLeague_İremCatak\YouthLeague_İremCatak\obj\Debug\YouthLeague_İremCatak.Properties.Resources.resources
+C:\Users\User\Desktop\repos\YouthLeague_İremCatak\YouthLeague_İremCatak\obj\Debug\YouthLeague_İremCatak.csproj.GenerateResource.cache
+C:\Users\User\Desktop\repos\YouthLeague_İremCatak\YouthLeague_İremCatak\obj\Debug\YouthLeague_İremCatak.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\repos\YouthLeague_İremCatak\YouthLeague_İremCatak\obj\Debug\YouthLeague_İremCatak.exe
+C:\Users\User\Desktop\repos\YouthLeague_İremCatak\YouthLeague_İremCatak\obj\Debug\YouthLeague_İremCatak.pdb

@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[DEpt]
+(
+	[DEPT_ID] INT NOT NULL PRIMARY KEY, 
+    [DEPT_Name] NCHAR(50) NULL, 
+    [Faculty_ID] NCHAR(10) NULL
+)

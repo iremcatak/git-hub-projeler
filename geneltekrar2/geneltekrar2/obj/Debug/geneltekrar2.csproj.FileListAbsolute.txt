@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\geneltekrar2\geneltekrar2\bin\Debug\geneltekrar2.exe.config
+C:\Users\User\source\repos\geneltekrar2\geneltekrar2\bin\Debug\geneltekrar2.exe
+C:\Users\User\source\repos\geneltekrar2\geneltekrar2\bin\Debug\geneltekrar2.pdb
+C:\Users\User\source\repos\geneltekrar2\geneltekrar2\obj\Debug\geneltekrar2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\geneltekrar2\geneltekrar2\obj\Debug\geneltekrar2.Form1.resources
+C:\Users\User\source\repos\geneltekrar2\geneltekrar2\obj\Debug\geneltekrar2.Properties.Resources.resources
+C:\Users\User\source\repos\geneltekrar2\geneltekrar2\obj\Debug\geneltekrar2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\geneltekrar2\geneltekrar2\obj\Debug\geneltekrar2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\geneltekrar2\geneltekrar2\obj\Debug\geneltekrar2.exe
+C:\Users\User\source\repos\geneltekrar2\geneltekrar2\obj\Debug\geneltekrar2.pdb
+C:\Users\User\source\repos\geneltekrar2\geneltekrar2\obj\Debug\geneltekrar2.Form2.resources
+C:\Users\User\source\repos\geneltekrar2\geneltekrar2\obj\Debug\geneltekrar2.diziler.resources
+C:\Users\User\source\repos\geneltekrar2\geneltekrar2\obj\Debug\geneltekrar2.Form3.resources
+C:\Users\User\source\repos\geneltekrar2\geneltekrar2\obj\Debug\geneltekrar2.Form4.resources
+C:\Users\User\source\repos\geneltekrar2\geneltekrar2\obj\Debug\geneltekrar2.Form5.resources

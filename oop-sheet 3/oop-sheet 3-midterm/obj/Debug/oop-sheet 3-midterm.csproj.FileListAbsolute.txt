@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\oop-sheet 3-midterm\oop-sheet 3-midterm\bin\Debug\oop-sheet 3-midterm.exe.config
+C:\Users\User\source\repos\oop-sheet 3-midterm\oop-sheet 3-midterm\bin\Debug\oop-sheet 3-midterm.exe
+C:\Users\User\source\repos\oop-sheet 3-midterm\oop-sheet 3-midterm\bin\Debug\oop-sheet 3-midterm.pdb
+C:\Users\User\source\repos\oop-sheet 3-midterm\oop-sheet 3-midterm\obj\Debug\oop-sheet 3-midterm.csprojAssemblyReference.cache
+C:\Users\User\source\repos\oop-sheet 3-midterm\oop-sheet 3-midterm\obj\Debug\oop_sheet_3_midterm.Form1.resources
+C:\Users\User\source\repos\oop-sheet 3-midterm\oop-sheet 3-midterm\obj\Debug\oop_sheet_3_midterm.Properties.Resources.resources
+C:\Users\User\source\repos\oop-sheet 3-midterm\oop-sheet 3-midterm\obj\Debug\oop-sheet 3-midterm.csproj.GenerateResource.cache
+C:\Users\User\source\repos\oop-sheet 3-midterm\oop-sheet 3-midterm\obj\Debug\oop-sheet 3-midterm.exe
+C:\Users\User\source\repos\oop-sheet 3-midterm\oop-sheet 3-midterm\obj\Debug\oop-sheet 3-midterm.pdb

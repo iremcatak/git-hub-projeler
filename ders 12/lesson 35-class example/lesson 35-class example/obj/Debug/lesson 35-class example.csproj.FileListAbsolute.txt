@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\udemy kurslar\lesson 35-class example\lesson 35-class example\bin\Debug\lesson 35-class example.exe.config
+C:\Users\User\Desktop\udemy kurslar\lesson 35-class example\lesson 35-class example\bin\Debug\lesson 35-class example.exe
+C:\Users\User\Desktop\udemy kurslar\lesson 35-class example\lesson 35-class example\bin\Debug\lesson 35-class example.pdb
+C:\Users\User\Desktop\udemy kurslar\lesson 35-class example\lesson 35-class example\obj\Debug\lesson 35-class example.csprojAssemblyReference.cache
+C:\Users\User\Desktop\udemy kurslar\lesson 35-class example\lesson 35-class example\obj\Debug\lesson_35_class_example.Form1.resources
+C:\Users\User\Desktop\udemy kurslar\lesson 35-class example\lesson 35-class example\obj\Debug\lesson_35_class_example.Form2.resources
+C:\Users\User\Desktop\udemy kurslar\lesson 35-class example\lesson 35-class example\obj\Debug\lesson_35_class_example.Properties.Resources.resources
+C:\Users\User\Desktop\udemy kurslar\lesson 35-class example\lesson 35-class example\obj\Debug\lesson 35-class example.csproj.GenerateResource.cache
+C:\Users\User\Desktop\udemy kurslar\lesson 35-class example\lesson 35-class example\obj\Debug\lesson 35-class example.exe
+C:\Users\User\Desktop\udemy kurslar\lesson 35-class example\lesson 35-class example\obj\Debug\lesson 35-class example.pdb

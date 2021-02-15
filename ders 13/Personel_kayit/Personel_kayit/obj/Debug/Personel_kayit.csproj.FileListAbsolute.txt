@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\udemy kurslar\Personel_kayit\Personel_kayit\bin\Debug\Personel_kayit.exe.config
+C:\Users\User\Desktop\udemy kurslar\Personel_kayit\Personel_kayit\bin\Debug\Personel_kayit.exe
+C:\Users\User\Desktop\udemy kurslar\Personel_kayit\Personel_kayit\bin\Debug\Personel_kayit.pdb
+C:\Users\User\Desktop\udemy kurslar\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.csprojAssemblyReference.cache
+C:\Users\User\Desktop\udemy kurslar\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.Properties.Resources.resources
+C:\Users\User\Desktop\udemy kurslar\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.csproj.GenerateResource.cache
+C:\Users\User\Desktop\udemy kurslar\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\udemy kurslar\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.exe
+C:\Users\User\Desktop\udemy kurslar\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.pdb
+C:\Users\User\Desktop\udemy kurslar\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.Frmistatistik.resources
+C:\Users\User\Desktop\udemy kurslar\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.FrmAnaEkran.resources
+C:\Users\User\Desktop\udemy kurslar\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.FrmGrafikler.resources
+C:\Users\User\Desktop\udemy kurslar\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.FrmGiris.resources

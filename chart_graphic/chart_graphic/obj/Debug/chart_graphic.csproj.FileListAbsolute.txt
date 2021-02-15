@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\chart_graphic\chart_graphic\bin\Debug\chart_graphic.exe.config
+C:\Users\User\source\repos\chart_graphic\chart_graphic\bin\Debug\chart_graphic.exe
+C:\Users\User\source\repos\chart_graphic\chart_graphic\bin\Debug\chart_graphic.pdb
+C:\Users\User\source\repos\chart_graphic\chart_graphic\obj\Debug\chart_graphic.csprojAssemblyReference.cache
+C:\Users\User\source\repos\chart_graphic\chart_graphic\obj\Debug\chart_graphic.Form1.resources
+C:\Users\User\source\repos\chart_graphic\chart_graphic\obj\Debug\chart_graphic.Properties.Resources.resources
+C:\Users\User\source\repos\chart_graphic\chart_graphic\obj\Debug\chart_graphic.csproj.GenerateResource.cache
+C:\Users\User\source\repos\chart_graphic\chart_graphic\obj\Debug\chart_graphic.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\chart_graphic\chart_graphic\obj\Debug\chart_graphic.exe
+C:\Users\User\source\repos\chart_graphic\chart_graphic\obj\Debug\chart_graphic.pdb

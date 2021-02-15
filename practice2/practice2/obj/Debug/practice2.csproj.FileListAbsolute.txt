@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\practice2\practice2\bin\Debug\Properties\Database1.mdf
+C:\Users\User\source\repos\practice2\practice2\bin\Debug\Properties\Database1_log.ldf
+C:\Users\User\source\repos\practice2\practice2\bin\Debug\practice2.exe.config
+C:\Users\User\source\repos\practice2\practice2\bin\Debug\practice2.exe
+C:\Users\User\source\repos\practice2\practice2\bin\Debug\practice2.pdb
+C:\Users\User\source\repos\practice2\practice2\obj\Debug\practice2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\practice2\practice2\obj\Debug\practice2.Properties.Resources.resources
+C:\Users\User\source\repos\practice2\practice2\obj\Debug\practice2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\practice2\practice2\obj\Debug\practice2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\practice2\practice2\obj\Debug\practice2.exe
+C:\Users\User\source\repos\practice2\practice2\obj\Debug\practice2.pdb

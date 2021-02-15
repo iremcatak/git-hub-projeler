@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson 29-arrays", "lesson 29-arrays\lesson 29-arrays.csproj", "{85ED6665-549A-4F31-AEC7-A4101DAD4A1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85ED6665-549A-4F31-AEC7-A4101DAD4A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85ED6665-549A-4F31-AEC7-A4101DAD4A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85ED6665-549A-4F31-AEC7-A4101DAD4A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85ED6665-549A-4F31-AEC7-A4101DAD4A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63E9623E-7D57-42EA-A4A2-4A6BB8FE168E}
+	EndGlobalSection
+EndGlobal

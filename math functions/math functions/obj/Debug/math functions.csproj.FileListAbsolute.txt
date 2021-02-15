@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\math functions\math functions\bin\Debug\math functions.exe.config
+C:\Users\User\source\repos\math functions\math functions\bin\Debug\math functions.exe
+C:\Users\User\source\repos\math functions\math functions\bin\Debug\math functions.pdb
+C:\Users\User\source\repos\math functions\math functions\obj\Debug\math functions.csprojAssemblyReference.cache
+C:\Users\User\source\repos\math functions\math functions\obj\Debug\math_functions.Form1.resources
+C:\Users\User\source\repos\math functions\math functions\obj\Debug\math_functions.Properties.Resources.resources
+C:\Users\User\source\repos\math functions\math functions\obj\Debug\math functions.csproj.GenerateResource.cache
+C:\Users\User\source\repos\math functions\math functions\obj\Debug\math functions.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\math functions\math functions\obj\Debug\math functions.exe
+C:\Users\User\source\repos\math functions\math functions\obj\Debug\math functions.pdb

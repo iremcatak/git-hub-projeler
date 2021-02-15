@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\udemy kurslar\ders 17 - alışveriş indirim tutar hesaplama\ders 17 - alışveriş indirim tutar hesaplama\bin\Debug\ders 17 - alışveriş indirim tutar hesaplama.exe.config
+C:\Users\User\Desktop\udemy kurslar\ders 17 - alışveriş indirim tutar hesaplama\ders 17 - alışveriş indirim tutar hesaplama\bin\Debug\ders 17 - alışveriş indirim tutar hesaplama.exe
+C:\Users\User\Desktop\udemy kurslar\ders 17 - alışveriş indirim tutar hesaplama\ders 17 - alışveriş indirim tutar hesaplama\bin\Debug\ders 17 - alışveriş indirim tutar hesaplama.pdb
+C:\Users\User\Desktop\udemy kurslar\ders 17 - alışveriş indirim tutar hesaplama\ders 17 - alışveriş indirim tutar hesaplama\obj\Debug\ders 17 - alışveriş indirim tutar hesaplama.csprojAssemblyReference.cache
+C:\Users\User\Desktop\udemy kurslar\ders 17 - alışveriş indirim tutar hesaplama\ders 17 - alışveriş indirim tutar hesaplama\obj\Debug\ders_17___alışveriş_indirim_tutar_hesaplama.Form1.resources
+C:\Users\User\Desktop\udemy kurslar\ders 17 - alışveriş indirim tutar hesaplama\ders 17 - alışveriş indirim tutar hesaplama\obj\Debug\ders_17___alışveriş_indirim_tutar_hesaplama.Properties.Resources.resources
+C:\Users\User\Desktop\udemy kurslar\ders 17 - alışveriş indirim tutar hesaplama\ders 17 - alışveriş indirim tutar hesaplama\obj\Debug\ders 17 - alışveriş indirim tutar hesaplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\udemy kurslar\ders 17 - alışveriş indirim tutar hesaplama\ders 17 - alışveriş indirim tutar hesaplama\obj\Debug\ders 17 - alışveriş indirim tutar hesaplama.exe
+C:\Users\User\Desktop\udemy kurslar\ders 17 - alışveriş indirim tutar hesaplama\ders 17 - alışveriş indirim tutar hesaplama\obj\Debug\ders 17 - alışveriş indirim tutar hesaplama.pdb

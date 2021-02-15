@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\ihab elaff\ihab elaff\bin\Debug\ihab elaff.exe.config
+C:\Users\User\source\repos\ihab elaff\ihab elaff\bin\Debug\ihab elaff.exe
+C:\Users\User\source\repos\ihab elaff\ihab elaff\bin\Debug\ihab elaff.pdb
+C:\Users\User\source\repos\ihab elaff\ihab elaff\obj\Debug\ihab elaff.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ihab elaff\ihab elaff\obj\Debug\ihab_elaff.Form1.resources
+C:\Users\User\source\repos\ihab elaff\ihab elaff\obj\Debug\ihab_elaff.Properties.Resources.resources
+C:\Users\User\source\repos\ihab elaff\ihab elaff\obj\Debug\ihab elaff.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ihab elaff\ihab elaff\obj\Debug\ihab elaff.exe
+C:\Users\User\source\repos\ihab elaff\ihab elaff\obj\Debug\ihab elaff.pdb

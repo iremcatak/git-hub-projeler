@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\udemy kurslar\ders 3\ders 3\bin\Debug\ders 3.exe.config
+C:\Users\User\Desktop\udemy kurslar\ders 3\ders 3\bin\Debug\ders 3.exe
+C:\Users\User\Desktop\udemy kurslar\ders 3\ders 3\bin\Debug\ders 3.pdb
+C:\Users\User\Desktop\udemy kurslar\ders 3\ders 3\obj\Debug\ders 3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\udemy kurslar\ders 3\ders 3\obj\Debug\ders_3.Form1.resources
+C:\Users\User\Desktop\udemy kurslar\ders 3\ders 3\obj\Debug\ders_3.Properties.Resources.resources
+C:\Users\User\Desktop\udemy kurslar\ders 3\ders 3\obj\Debug\ders 3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\udemy kurslar\ders 3\ders 3\obj\Debug\ders 3.exe
+C:\Users\User\Desktop\udemy kurslar\ders 3\ders 3\obj\Debug\ders 3.pdb
+C:\Users\User\Desktop\udemy kurslar\ders 3\ders 3\obj\Debug\ders 3.csproj.CoreCompileInputs.cache

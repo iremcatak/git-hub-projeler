@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\context menu strip\context menu strip\bin\Debug\context menu strip.exe.config
+C:\Users\User\source\repos\context menu strip\context menu strip\bin\Debug\context menu strip.exe
+C:\Users\User\source\repos\context menu strip\context menu strip\bin\Debug\context menu strip.pdb
+C:\Users\User\source\repos\context menu strip\context menu strip\obj\Debug\context menu strip.csprojAssemblyReference.cache
+C:\Users\User\source\repos\context menu strip\context menu strip\obj\Debug\context_menu_strip.Form1.resources
+C:\Users\User\source\repos\context menu strip\context menu strip\obj\Debug\context_menu_strip.Properties.Resources.resources
+C:\Users\User\source\repos\context menu strip\context menu strip\obj\Debug\context menu strip.csproj.GenerateResource.cache
+C:\Users\User\source\repos\context menu strip\context menu strip\obj\Debug\context menu strip.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\context menu strip\context menu strip\obj\Debug\context menu strip.exe
+C:\Users\User\source\repos\context menu strip\context menu strip\obj\Debug\context menu strip.pdb

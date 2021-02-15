@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\udemy kurslar\ders 18\ders 18\bin\Debug\ders 18.exe.config
+C:\Users\User\Desktop\udemy kurslar\ders 18\ders 18\bin\Debug\ders 18.exe
+C:\Users\User\Desktop\udemy kurslar\ders 18\ders 18\bin\Debug\ders 18.pdb
+C:\Users\User\Desktop\udemy kurslar\ders 18\ders 18\obj\Debug\ders 18.csprojAssemblyReference.cache
+C:\Users\User\Desktop\udemy kurslar\ders 18\ders 18\obj\Debug\ders_18.Form1.resources
+C:\Users\User\Desktop\udemy kurslar\ders 18\ders 18\obj\Debug\ders_18.Properties.Resources.resources
+C:\Users\User\Desktop\udemy kurslar\ders 18\ders 18\obj\Debug\ders 18.csproj.GenerateResource.cache
+C:\Users\User\Desktop\udemy kurslar\ders 18\ders 18\obj\Debug\ders 18.exe
+C:\Users\User\Desktop\udemy kurslar\ders 18\ders 18\obj\Debug\ders 18.pdb

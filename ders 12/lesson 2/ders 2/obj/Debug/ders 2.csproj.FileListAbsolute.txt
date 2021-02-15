@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\udemy kurslar\ders 2\ders 2\bin\Debug\ders 2.exe.config
+C:\Users\User\Desktop\udemy kurslar\ders 2\ders 2\bin\Debug\ders 2.exe
+C:\Users\User\Desktop\udemy kurslar\ders 2\ders 2\bin\Debug\ders 2.pdb
+C:\Users\User\Desktop\udemy kurslar\ders 2\ders 2\obj\Debug\ders 2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\udemy kurslar\ders 2\ders 2\obj\Debug\ders_2.Form1.resources
+C:\Users\User\Desktop\udemy kurslar\ders 2\ders 2\obj\Debug\ders_2.Properties.Resources.resources
+C:\Users\User\Desktop\udemy kurslar\ders 2\ders 2\obj\Debug\ders 2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\udemy kurslar\ders 2\ders 2\obj\Debug\ders 2.exe
+C:\Users\User\Desktop\udemy kurslar\ders 2\ders 2\obj\Debug\ders 2.pdb

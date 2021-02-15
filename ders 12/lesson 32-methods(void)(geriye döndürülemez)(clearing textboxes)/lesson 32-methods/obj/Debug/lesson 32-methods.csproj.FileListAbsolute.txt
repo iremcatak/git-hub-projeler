@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\udemy kurslar\lesson 32-methods\lesson 32-methods\bin\Debug\lesson 32-methods.exe.config
+C:\Users\User\Desktop\udemy kurslar\lesson 32-methods\lesson 32-methods\bin\Debug\lesson 32-methods.exe
+C:\Users\User\Desktop\udemy kurslar\lesson 32-methods\lesson 32-methods\bin\Debug\lesson 32-methods.pdb
+C:\Users\User\Desktop\udemy kurslar\lesson 32-methods\lesson 32-methods\obj\Debug\lesson 32-methods.csprojAssemblyReference.cache
+C:\Users\User\Desktop\udemy kurslar\lesson 32-methods\lesson 32-methods\obj\Debug\lesson_32_methods.Form1.resources
+C:\Users\User\Desktop\udemy kurslar\lesson 32-methods\lesson 32-methods\obj\Debug\lesson_32_methods.Properties.Resources.resources
+C:\Users\User\Desktop\udemy kurslar\lesson 32-methods\lesson 32-methods\obj\Debug\lesson 32-methods.csproj.GenerateResource.cache
+C:\Users\User\Desktop\udemy kurslar\lesson 32-methods\lesson 32-methods\obj\Debug\lesson 32-methods.exe
+C:\Users\User\Desktop\udemy kurslar\lesson 32-methods\lesson 32-methods\obj\Debug\lesson 32-methods.pdb

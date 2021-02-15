@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "oop-sheet 2-q6(Poly)/1.0.0": {
+        "runtime": {
+          "oop-sheet 2-q6(Poly).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "oop-sheet 2-q6(Poly)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

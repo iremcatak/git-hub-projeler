@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop-sheet 2-q5(Roots)", "oop-sheet 2-q5(Roots)\oop-sheet 2-q5(Roots).csproj", "{FEC9ED0D-054B-4D68-9DBD-4B37DA3FF597}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEC9ED0D-054B-4D68-9DBD-4B37DA3FF597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC9ED0D-054B-4D68-9DBD-4B37DA3FF597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC9ED0D-054B-4D68-9DBD-4B37DA3FF597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC9ED0D-054B-4D68-9DBD-4B37DA3FF597}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC4238C7-9C96-4381-B4F5-59A316E02A15}
+	EndGlobalSection
+EndGlobal

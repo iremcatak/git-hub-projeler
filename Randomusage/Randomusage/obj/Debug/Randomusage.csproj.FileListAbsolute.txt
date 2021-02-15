@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Randomusage\Randomusage\bin\Debug\Randomusage.exe.config
+C:\Users\User\source\repos\Randomusage\Randomusage\bin\Debug\Randomusage.exe
+C:\Users\User\source\repos\Randomusage\Randomusage\bin\Debug\Randomusage.pdb
+C:\Users\User\source\repos\Randomusage\Randomusage\obj\Debug\Randomusage.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Randomusage\Randomusage\obj\Debug\Randomusage.Form1.resources
+C:\Users\User\source\repos\Randomusage\Randomusage\obj\Debug\Randomusage.Properties.Resources.resources
+C:\Users\User\source\repos\Randomusage\Randomusage\obj\Debug\Randomusage.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Randomusage\Randomusage\obj\Debug\Randomusage.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Randomusage\Randomusage\obj\Debug\Randomusage.exe
+C:\Users\User\source\repos\Randomusage\Randomusage\obj\Debug\Randomusage.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\udemy kurslar\lesson 34-calculating cube(by using method)\lesson 34-calculating cube(by using method)\bin\Debug\lesson 34-calculating cube(by using method).exe.config
+C:\Users\User\Desktop\udemy kurslar\lesson 34-calculating cube(by using method)\lesson 34-calculating cube(by using method)\bin\Debug\lesson 34-calculating cube(by using method).exe
+C:\Users\User\Desktop\udemy kurslar\lesson 34-calculating cube(by using method)\lesson 34-calculating cube(by using method)\bin\Debug\lesson 34-calculating cube(by using method).pdb
+C:\Users\User\Desktop\udemy kurslar\lesson 34-calculating cube(by using method)\lesson 34-calculating cube(by using method)\obj\Debug\lesson 34-calculating cube(by using method).csprojAssemblyReference.cache
+C:\Users\User\Desktop\udemy kurslar\lesson 34-calculating cube(by using method)\lesson 34-calculating cube(by using method)\obj\Debug\lesson_34_calculating_cube_by_using_method_.Form1.resources
+C:\Users\User\Desktop\udemy kurslar\lesson 34-calculating cube(by using method)\lesson 34-calculating cube(by using method)\obj\Debug\lesson_34_calculating_cube_by_using_method_.Properties.Resources.resources
+C:\Users\User\Desktop\udemy kurslar\lesson 34-calculating cube(by using method)\lesson 34-calculating cube(by using method)\obj\Debug\lesson 34-calculating cube(by using method).csproj.GenerateResource.cache
+C:\Users\User\Desktop\udemy kurslar\lesson 34-calculating cube(by using method)\lesson 34-calculating cube(by using method)\obj\Debug\lesson 34-calculating cube(by using method).exe
+C:\Users\User\Desktop\udemy kurslar\lesson 34-calculating cube(by using method)\lesson 34-calculating cube(by using method)\obj\Debug\lesson 34-calculating cube(by using method).pdb

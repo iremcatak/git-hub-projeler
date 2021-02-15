@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\moving data between forms\moving data between forms\bin\Debug\moving data between forms.exe.config
+C:\Users\User\source\repos\moving data between forms\moving data between forms\bin\Debug\moving data between forms.exe
+C:\Users\User\source\repos\moving data between forms\moving data between forms\bin\Debug\moving data between forms.pdb
+C:\Users\User\source\repos\moving data between forms\moving data between forms\obj\Debug\moving data between forms.csprojAssemblyReference.cache
+C:\Users\User\source\repos\moving data between forms\moving data between forms\obj\Debug\moving_data_between_forms.Form1.resources
+C:\Users\User\source\repos\moving data between forms\moving data between forms\obj\Debug\moving_data_between_forms.Form2.resources
+C:\Users\User\source\repos\moving data between forms\moving data between forms\obj\Debug\moving_data_between_forms.Properties.Resources.resources
+C:\Users\User\source\repos\moving data between forms\moving data between forms\obj\Debug\moving data between forms.csproj.GenerateResource.cache
+C:\Users\User\source\repos\moving data between forms\moving data between forms\obj\Debug\moving data between forms.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\moving data between forms\moving data between forms\obj\Debug\moving data between forms.exe
+C:\Users\User\source\repos\moving data between forms\moving data between forms\obj\Debug\moving data between forms.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders 5 - Login Paneli Oluşturma", "ders 5 - Login Paneli Oluşturma\ders 5 - Login Paneli Oluşturma.csproj", "{659EEE98-7D6D-4FEC-B036-90DD1B92140A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{659EEE98-7D6D-4FEC-B036-90DD1B92140A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659EEE98-7D6D-4FEC-B036-90DD1B92140A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{659EEE98-7D6D-4FEC-B036-90DD1B92140A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{659EEE98-7D6D-4FEC-B036-90DD1B92140A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {328232CF-FE5E-413A-AFC1-BFF8FCCDB22A}
+	EndGlobalSection
+EndGlobal

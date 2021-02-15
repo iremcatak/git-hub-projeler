@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\170201027-project-iremcatak\170201027-project-iremcatak\bin\Debug\170201027-project-iremcatak.exe.config
+C:\Users\User\source\repos\170201027-project-iremcatak\170201027-project-iremcatak\bin\Debug\170201027-project-iremcatak.exe
+C:\Users\User\source\repos\170201027-project-iremcatak\170201027-project-iremcatak\bin\Debug\170201027-project-iremcatak.pdb
+C:\Users\User\source\repos\170201027-project-iremcatak\170201027-project-iremcatak\obj\Debug\170201027-project-iremcatak.csprojAssemblyReference.cache
+C:\Users\User\source\repos\170201027-project-iremcatak\170201027-project-iremcatak\obj\Debug\_170201027_project_iremcatak.Form1.resources
+C:\Users\User\source\repos\170201027-project-iremcatak\170201027-project-iremcatak\obj\Debug\_170201027_project_iremcatak.Properties.Resources.resources
+C:\Users\User\source\repos\170201027-project-iremcatak\170201027-project-iremcatak\obj\Debug\170201027-project-iremcatak.csproj.GenerateResource.cache
+C:\Users\User\source\repos\170201027-project-iremcatak\170201027-project-iremcatak\obj\Debug\170201027-project-iremcatak.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\170201027-project-iremcatak\170201027-project-iremcatak\obj\Debug\170201027-project-iremcatak.exe
+C:\Users\User\source\repos\170201027-project-iremcatak\170201027-project-iremcatak\obj\Debug\170201027-project-iremcatak.pdb

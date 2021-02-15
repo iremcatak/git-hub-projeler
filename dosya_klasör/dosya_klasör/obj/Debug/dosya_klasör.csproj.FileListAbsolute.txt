@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\dosya_klasör\dosya_klasör\bin\Debug\dosya_klasör.exe.config
+C:\Users\User\source\repos\dosya_klasör\dosya_klasör\bin\Debug\dosya_klasör.exe
+C:\Users\User\source\repos\dosya_klasör\dosya_klasör\bin\Debug\dosya_klasör.pdb
+C:\Users\User\source\repos\dosya_klasör\dosya_klasör\obj\Debug\dosya_klasör.csprojAssemblyReference.cache
+C:\Users\User\source\repos\dosya_klasör\dosya_klasör\obj\Debug\dosya_klasör.Form1.resources
+C:\Users\User\source\repos\dosya_klasör\dosya_klasör\obj\Debug\dosya_klasör.Properties.Resources.resources
+C:\Users\User\source\repos\dosya_klasör\dosya_klasör\obj\Debug\dosya_klasör.csproj.GenerateResource.cache
+C:\Users\User\source\repos\dosya_klasör\dosya_klasör\obj\Debug\dosya_klasör.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\dosya_klasör\dosya_klasör\obj\Debug\dosya_klasör.exe
+C:\Users\User\source\repos\dosya_klasör\dosya_klasör\obj\Debug\dosya_klasör.pdb

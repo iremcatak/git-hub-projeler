@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\udemy kurslar\ders 16-öğrenci sınav durumu hesaplama\ders 16-öğrenci sınav durumu hesaplama\obj\Debug\ders 16-öğrenci sınav durumu hesaplama.csprojAssemblyReference.cache
+C:\Users\User\Desktop\udemy kurslar\ders 16-öğrenci sınav durumu hesaplama\ders 16-öğrenci sınav durumu hesaplama\obj\Debug\ders_16_öğrenci_sınav_durumu_hesaplama.Form1.resources
+C:\Users\User\Desktop\udemy kurslar\ders 16-öğrenci sınav durumu hesaplama\ders 16-öğrenci sınav durumu hesaplama\obj\Debug\ders_16_öğrenci_sınav_durumu_hesaplama.Properties.Resources.resources
+C:\Users\User\Desktop\udemy kurslar\ders 16-öğrenci sınav durumu hesaplama\ders 16-öğrenci sınav durumu hesaplama\obj\Debug\ders 16-öğrenci sınav durumu hesaplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\udemy kurslar\ders 16-öğrenci sınav durumu hesaplama\ders 16-öğrenci sınav durumu hesaplama\bin\Debug\ders 16-öğrenci sınav durumu hesaplama.exe.config
+C:\Users\User\Desktop\udemy kurslar\ders 16-öğrenci sınav durumu hesaplama\ders 16-öğrenci sınav durumu hesaplama\bin\Debug\ders 16-öğrenci sınav durumu hesaplama.exe
+C:\Users\User\Desktop\udemy kurslar\ders 16-öğrenci sınav durumu hesaplama\ders 16-öğrenci sınav durumu hesaplama\bin\Debug\ders 16-öğrenci sınav durumu hesaplama.pdb
+C:\Users\User\Desktop\udemy kurslar\ders 16-öğrenci sınav durumu hesaplama\ders 16-öğrenci sınav durumu hesaplama\obj\Debug\ders 16-öğrenci sınav durumu hesaplama.exe
+C:\Users\User\Desktop\udemy kurslar\ders 16-öğrenci sınav durumu hesaplama\ders 16-öğrenci sınav durumu hesaplama\obj\Debug\ders 16-öğrenci sınav durumu hesaplama.pdb

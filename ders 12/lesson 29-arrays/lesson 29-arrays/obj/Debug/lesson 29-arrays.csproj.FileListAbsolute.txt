@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\udemy kurslar\lesson 29-arrays\lesson 29-arrays\bin\Debug\lesson 29-arrays.exe.config
+C:\Users\User\Desktop\udemy kurslar\lesson 29-arrays\lesson 29-arrays\bin\Debug\lesson 29-arrays.exe
+C:\Users\User\Desktop\udemy kurslar\lesson 29-arrays\lesson 29-arrays\bin\Debug\lesson 29-arrays.pdb
+C:\Users\User\Desktop\udemy kurslar\lesson 29-arrays\lesson 29-arrays\obj\Debug\lesson 29-arrays.csprojAssemblyReference.cache
+C:\Users\User\Desktop\udemy kurslar\lesson 29-arrays\lesson 29-arrays\obj\Debug\lesson_29_arrays.Form1.resources
+C:\Users\User\Desktop\udemy kurslar\lesson 29-arrays\lesson 29-arrays\obj\Debug\lesson_29_arrays.Properties.Resources.resources
+C:\Users\User\Desktop\udemy kurslar\lesson 29-arrays\lesson 29-arrays\obj\Debug\lesson 29-arrays.csproj.GenerateResource.cache
+C:\Users\User\Desktop\udemy kurslar\lesson 29-arrays\lesson 29-arrays\obj\Debug\lesson 29-arrays.exe
+C:\Users\User\Desktop\udemy kurslar\lesson 29-arrays\lesson 29-arrays\obj\Debug\lesson 29-arrays.pdb

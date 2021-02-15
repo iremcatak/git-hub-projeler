@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\midterm question 2\midterm question 2\bin\Debug\netcoreapp3.1\midterm question 2.exe
+C:\Users\User\source\repos\midterm question 2\midterm question 2\bin\Debug\netcoreapp3.1\midterm question 2.deps.json
+C:\Users\User\source\repos\midterm question 2\midterm question 2\bin\Debug\netcoreapp3.1\midterm question 2.runtimeconfig.json
+C:\Users\User\source\repos\midterm question 2\midterm question 2\bin\Debug\netcoreapp3.1\midterm question 2.runtimeconfig.dev.json
+C:\Users\User\source\repos\midterm question 2\midterm question 2\bin\Debug\netcoreapp3.1\midterm question 2.dll
+C:\Users\User\source\repos\midterm question 2\midterm question 2\bin\Debug\netcoreapp3.1\midterm question 2.pdb
+C:\Users\User\source\repos\midterm question 2\midterm question 2\obj\Debug\netcoreapp3.1\midterm question 2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\midterm question 2\midterm question 2\obj\Debug\netcoreapp3.1\midterm question 2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\midterm question 2\midterm question 2\obj\Debug\netcoreapp3.1\midterm question 2.AssemblyInfo.cs
+C:\Users\User\source\repos\midterm question 2\midterm question 2\obj\Debug\netcoreapp3.1\midterm question 2.dll
+C:\Users\User\source\repos\midterm question 2\midterm question 2\obj\Debug\netcoreapp3.1\midterm question 2.pdb

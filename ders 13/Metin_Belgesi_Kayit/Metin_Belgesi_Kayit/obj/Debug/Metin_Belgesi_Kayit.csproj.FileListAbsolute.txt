@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\udemy kurslar\Metin_Belgesi_Kayit\Metin_Belgesi_Kayit\bin\Debug\Metin_Belgesi_Kayit.exe.config
+C:\Users\User\Desktop\udemy kurslar\Metin_Belgesi_Kayit\Metin_Belgesi_Kayit\bin\Debug\Metin_Belgesi_Kayit.exe
+C:\Users\User\Desktop\udemy kurslar\Metin_Belgesi_Kayit\Metin_Belgesi_Kayit\bin\Debug\Metin_Belgesi_Kayit.pdb
+C:\Users\User\Desktop\udemy kurslar\Metin_Belgesi_Kayit\Metin_Belgesi_Kayit\obj\Debug\Metin_Belgesi_Kayit.csprojAssemblyReference.cache
+C:\Users\User\Desktop\udemy kurslar\Metin_Belgesi_Kayit\Metin_Belgesi_Kayit\obj\Debug\Metin_Belgesi_Kayit.Form1.resources
+C:\Users\User\Desktop\udemy kurslar\Metin_Belgesi_Kayit\Metin_Belgesi_Kayit\obj\Debug\Metin_Belgesi_Kayit.Properties.Resources.resources
+C:\Users\User\Desktop\udemy kurslar\Metin_Belgesi_Kayit\Metin_Belgesi_Kayit\obj\Debug\Metin_Belgesi_Kayit.csproj.GenerateResource.cache
+C:\Users\User\Desktop\udemy kurslar\Metin_Belgesi_Kayit\Metin_Belgesi_Kayit\obj\Debug\Metin_Belgesi_Kayit.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\udemy kurslar\Metin_Belgesi_Kayit\Metin_Belgesi_Kayit\obj\Debug\Metin_Belgesi_Kayit.exe
+C:\Users\User\Desktop\udemy kurslar\Metin_Belgesi_Kayit\Metin_Belgesi_Kayit\obj\Debug\Metin_Belgesi_Kayit.pdb

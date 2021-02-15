@@ -1,0 +1,18 @@
+C:\Users\User\source\repos\ders 5 - Login Paneli Oluşturma\ders 5 - Login Paneli Oluşturma\bin\Debug\ders 5 - Login Paneli Oluşturma.exe.config
+C:\Users\User\source\repos\ders 5 - Login Paneli Oluşturma\ders 5 - Login Paneli Oluşturma\bin\Debug\ders 5 - Login Paneli Oluşturma.exe
+C:\Users\User\source\repos\ders 5 - Login Paneli Oluşturma\ders 5 - Login Paneli Oluşturma\bin\Debug\ders 5 - Login Paneli Oluşturma.pdb
+C:\Users\User\source\repos\ders 5 - Login Paneli Oluşturma\ders 5 - Login Paneli Oluşturma\obj\Debug\ders 5 - Login Paneli Oluşturma.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ders 5 - Login Paneli Oluşturma\ders 5 - Login Paneli Oluşturma\obj\Debug\ders_5___Login_Paneli_Oluşturma.Form1.resources
+C:\Users\User\source\repos\ders 5 - Login Paneli Oluşturma\ders 5 - Login Paneli Oluşturma\obj\Debug\ders_5___Login_Paneli_Oluşturma.Properties.Resources.resources
+C:\Users\User\source\repos\ders 5 - Login Paneli Oluşturma\ders 5 - Login Paneli Oluşturma\obj\Debug\ders 5 - Login Paneli Oluşturma.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ders 5 - Login Paneli Oluşturma\ders 5 - Login Paneli Oluşturma\obj\Debug\ders 5 - Login Paneli Oluşturma.exe
+C:\Users\User\source\repos\ders 5 - Login Paneli Oluşturma\ders 5 - Login Paneli Oluşturma\obj\Debug\ders 5 - Login Paneli Oluşturma.pdb
+C:\Users\User\Desktop\udemy kurslar\ders 5 - Login Paneli Oluşturma\ders 5 - Login Paneli Oluşturma\bin\Debug\ders 5 - Login Paneli Oluşturma.exe.config
+C:\Users\User\Desktop\udemy kurslar\ders 5 - Login Paneli Oluşturma\ders 5 - Login Paneli Oluşturma\bin\Debug\ders 5 - Login Paneli Oluşturma.exe
+C:\Users\User\Desktop\udemy kurslar\ders 5 - Login Paneli Oluşturma\ders 5 - Login Paneli Oluşturma\bin\Debug\ders 5 - Login Paneli Oluşturma.pdb
+C:\Users\User\Desktop\udemy kurslar\ders 5 - Login Paneli Oluşturma\ders 5 - Login Paneli Oluşturma\obj\Debug\ders 5 - Login Paneli Oluşturma.csprojAssemblyReference.cache
+C:\Users\User\Desktop\udemy kurslar\ders 5 - Login Paneli Oluşturma\ders 5 - Login Paneli Oluşturma\obj\Debug\ders_5___Login_Paneli_Oluşturma.Form1.resources
+C:\Users\User\Desktop\udemy kurslar\ders 5 - Login Paneli Oluşturma\ders 5 - Login Paneli Oluşturma\obj\Debug\ders_5___Login_Paneli_Oluşturma.Properties.Resources.resources
+C:\Users\User\Desktop\udemy kurslar\ders 5 - Login Paneli Oluşturma\ders 5 - Login Paneli Oluşturma\obj\Debug\ders 5 - Login Paneli Oluşturma.csproj.GenerateResource.cache
+C:\Users\User\Desktop\udemy kurslar\ders 5 - Login Paneli Oluşturma\ders 5 - Login Paneli Oluşturma\obj\Debug\ders 5 - Login Paneli Oluşturma.exe
+C:\Users\User\Desktop\udemy kurslar\ders 5 - Login Paneli Oluşturma\ders 5 - Login Paneli Oluşturma\obj\Debug\ders 5 - Login Paneli Oluşturma.pdb

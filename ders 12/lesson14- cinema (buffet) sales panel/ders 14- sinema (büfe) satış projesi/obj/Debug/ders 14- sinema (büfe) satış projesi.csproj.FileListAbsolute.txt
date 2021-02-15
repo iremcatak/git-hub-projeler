@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\udemy kurslar\ders 14- sinema (büfe) satış projesi\ders 14- sinema (büfe) satış projesi\bin\Debug\ders 14- sinema (büfe) satış projesi.exe.config
+C:\Users\User\Desktop\udemy kurslar\ders 14- sinema (büfe) satış projesi\ders 14- sinema (büfe) satış projesi\bin\Debug\ders 14- sinema (büfe) satış projesi.exe
+C:\Users\User\Desktop\udemy kurslar\ders 14- sinema (büfe) satış projesi\ders 14- sinema (büfe) satış projesi\bin\Debug\ders 14- sinema (büfe) satış projesi.pdb
+C:\Users\User\Desktop\udemy kurslar\ders 14- sinema (büfe) satış projesi\ders 14- sinema (büfe) satış projesi\obj\Debug\ders 14- sinema (büfe) satış projesi.csprojAssemblyReference.cache
+C:\Users\User\Desktop\udemy kurslar\ders 14- sinema (büfe) satış projesi\ders 14- sinema (büfe) satış projesi\obj\Debug\ders_14__sinema__büfe__satış_projesi.Form1.resources
+C:\Users\User\Desktop\udemy kurslar\ders 14- sinema (büfe) satış projesi\ders 14- sinema (büfe) satış projesi\obj\Debug\ders_14__sinema__büfe__satış_projesi.Properties.Resources.resources
+C:\Users\User\Desktop\udemy kurslar\ders 14- sinema (büfe) satış projesi\ders 14- sinema (büfe) satış projesi\obj\Debug\ders 14- sinema (büfe) satış projesi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\udemy kurslar\ders 14- sinema (büfe) satış projesi\ders 14- sinema (büfe) satış projesi\obj\Debug\ders 14- sinema (büfe) satış projesi.exe
+C:\Users\User\Desktop\udemy kurslar\ders 14- sinema (büfe) satış projesi\ders 14- sinema (büfe) satış projesi\obj\Debug\ders 14- sinema (büfe) satış projesi.pdb

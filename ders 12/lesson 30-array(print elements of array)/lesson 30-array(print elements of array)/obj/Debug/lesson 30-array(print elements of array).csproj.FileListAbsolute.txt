@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\udemy kurslar\lesson 30-array(print elements of array)\lesson 30-array(print elements of array)\bin\Debug\lesson 30-array(print elements of array).exe.config
+C:\Users\User\Desktop\udemy kurslar\lesson 30-array(print elements of array)\lesson 30-array(print elements of array)\bin\Debug\lesson 30-array(print elements of array).exe
+C:\Users\User\Desktop\udemy kurslar\lesson 30-array(print elements of array)\lesson 30-array(print elements of array)\bin\Debug\lesson 30-array(print elements of array).pdb
+C:\Users\User\Desktop\udemy kurslar\lesson 30-array(print elements of array)\lesson 30-array(print elements of array)\obj\Debug\lesson 30-array(print elements of array).csprojAssemblyReference.cache
+C:\Users\User\Desktop\udemy kurslar\lesson 30-array(print elements of array)\lesson 30-array(print elements of array)\obj\Debug\lesson_30_array_print_elements_of_array_.Form1.resources
+C:\Users\User\Desktop\udemy kurslar\lesson 30-array(print elements of array)\lesson 30-array(print elements of array)\obj\Debug\lesson_30_array_print_elements_of_array_.Properties.Resources.resources
+C:\Users\User\Desktop\udemy kurslar\lesson 30-array(print elements of array)\lesson 30-array(print elements of array)\obj\Debug\lesson 30-array(print elements of array).csproj.GenerateResource.cache
+C:\Users\User\Desktop\udemy kurslar\lesson 30-array(print elements of array)\lesson 30-array(print elements of array)\obj\Debug\lesson 30-array(print elements of array).exe
+C:\Users\User\Desktop\udemy kurslar\lesson 30-array(print elements of array)\lesson 30-array(print elements of array)\obj\Debug\lesson 30-array(print elements of array).pdb

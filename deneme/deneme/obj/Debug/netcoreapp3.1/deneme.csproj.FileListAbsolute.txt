@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\deneme\deneme\bin\Debug\netcoreapp3.1\deneme.exe
+C:\Users\User\source\repos\deneme\deneme\bin\Debug\netcoreapp3.1\deneme.deps.json
+C:\Users\User\source\repos\deneme\deneme\bin\Debug\netcoreapp3.1\deneme.runtimeconfig.json
+C:\Users\User\source\repos\deneme\deneme\bin\Debug\netcoreapp3.1\deneme.runtimeconfig.dev.json
+C:\Users\User\source\repos\deneme\deneme\bin\Debug\netcoreapp3.1\deneme.dll
+C:\Users\User\source\repos\deneme\deneme\bin\Debug\netcoreapp3.1\deneme.pdb
+C:\Users\User\source\repos\deneme\deneme\obj\Debug\netcoreapp3.1\deneme.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\deneme\deneme\obj\Debug\netcoreapp3.1\deneme.AssemblyInfo.cs
+C:\Users\User\source\repos\deneme\deneme\obj\Debug\netcoreapp3.1\deneme.dll
+C:\Users\User\source\repos\deneme\deneme\obj\Debug\netcoreapp3.1\deneme.pdb

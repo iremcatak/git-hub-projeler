@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\udemy kurslar\ders 28-pasta pişirme süreci\ders 28-pasta pişirme süreci\bin\Debug\ders 28-pasta pişirme süreci.exe.config
+C:\Users\User\Desktop\udemy kurslar\ders 28-pasta pişirme süreci\ders 28-pasta pişirme süreci\bin\Debug\ders 28-pasta pişirme süreci.exe
+C:\Users\User\Desktop\udemy kurslar\ders 28-pasta pişirme süreci\ders 28-pasta pişirme süreci\bin\Debug\ders 28-pasta pişirme süreci.pdb
+C:\Users\User\Desktop\udemy kurslar\ders 28-pasta pişirme süreci\ders 28-pasta pişirme süreci\obj\Debug\ders 28-pasta pişirme süreci.csprojAssemblyReference.cache
+C:\Users\User\Desktop\udemy kurslar\ders 28-pasta pişirme süreci\ders 28-pasta pişirme süreci\obj\Debug\ders_28_pasta_pişirme_süreci.Form1.resources
+C:\Users\User\Desktop\udemy kurslar\ders 28-pasta pişirme süreci\ders 28-pasta pişirme süreci\obj\Debug\ders_28_pasta_pişirme_süreci.Properties.Resources.resources
+C:\Users\User\Desktop\udemy kurslar\ders 28-pasta pişirme süreci\ders 28-pasta pişirme süreci\obj\Debug\ders 28-pasta pişirme süreci.csproj.GenerateResource.cache
+C:\Users\User\Desktop\udemy kurslar\ders 28-pasta pişirme süreci\ders 28-pasta pişirme süreci\obj\Debug\ders 28-pasta pişirme süreci.exe
+C:\Users\User\Desktop\udemy kurslar\ders 28-pasta pişirme süreci\ders 28-pasta pişirme süreci\obj\Debug\ders 28-pasta pişirme süreci.pdb

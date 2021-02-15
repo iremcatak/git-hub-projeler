@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\App001\App001\bin\Debug\Database1.mdf
+C:\Users\User\source\repos\App001\App001\bin\Debug\Database1_log.ldf
+C:\Users\User\source\repos\App001\App001\bin\Debug\App001.exe.config
+C:\Users\User\source\repos\App001\App001\bin\Debug\App001.exe
+C:\Users\User\source\repos\App001\App001\bin\Debug\App001.pdb
+C:\Users\User\source\repos\App001\App001\obj\Debug\App001.csprojAssemblyReference.cache
+C:\Users\User\source\repos\App001\App001\obj\Debug\App001.Properties.Resources.resources
+C:\Users\User\source\repos\App001\App001\obj\Debug\App001.csproj.GenerateResource.cache
+C:\Users\User\source\repos\App001\App001\obj\Debug\App001.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\App001\App001\obj\Debug\App001.exe
+C:\Users\User\source\repos\App001\App001\obj\Debug\App001.pdb
+C:\Users\User\source\repos\App001\App001\obj\Debug\App001.Form1.resources

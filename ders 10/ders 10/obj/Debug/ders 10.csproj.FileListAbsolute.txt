@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\udemy kurslar\ders 10\ders 10\obj\Debug\ders 10.csprojAssemblyReference.cache
+C:\Users\User\Desktop\udemy kurslar\ders 10\ders 10\obj\Debug\ders_10.Form1.resources
+C:\Users\User\Desktop\udemy kurslar\ders 10\ders 10\obj\Debug\ders_10.Properties.Resources.resources
+C:\Users\User\Desktop\udemy kurslar\ders 10\ders 10\obj\Debug\ders 10.csproj.GenerateResource.cache
+C:\Users\User\Desktop\udemy kurslar\ders 10\ders 10\bin\Debug\ders 10.exe.config
+C:\Users\User\Desktop\udemy kurslar\ders 10\ders 10\bin\Debug\ders 10.exe
+C:\Users\User\Desktop\udemy kurslar\ders 10\ders 10\bin\Debug\ders 10.pdb
+C:\Users\User\Desktop\udemy kurslar\ders 10\ders 10\obj\Debug\ders 10.exe
+C:\Users\User\Desktop\udemy kurslar\ders 10\ders 10\obj\Debug\ders 10.pdb

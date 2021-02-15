@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\enum\enum\bin\Debug\@enum.exe.config
+C:\Users\User\source\repos\enum\enum\bin\Debug\@enum.exe
+C:\Users\User\source\repos\enum\enum\bin\Debug\@enum.pdb
+C:\Users\User\source\repos\enum\enum\obj\Debug\enum.csprojAssemblyReference.cache
+C:\Users\User\source\repos\enum\enum\obj\Debug\enum.Form1.resources
+C:\Users\User\source\repos\enum\enum\obj\Debug\enum.Properties.Resources.resources
+C:\Users\User\source\repos\enum\enum\obj\Debug\enum.csproj.GenerateResource.cache
+C:\Users\User\source\repos\enum\enum\obj\Debug\enum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\enum\enum\obj\Debug\@enum.exe
+C:\Users\User\source\repos\enum\enum\obj\Debug\@enum.pdb

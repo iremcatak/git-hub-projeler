@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\udemy kurslar\ders 22\ders 22\bin\Debug\ders 22.exe.config
+C:\Users\User\Desktop\udemy kurslar\ders 22\ders 22\bin\Debug\ders 22.exe
+C:\Users\User\Desktop\udemy kurslar\ders 22\ders 22\bin\Debug\ders 22.pdb
+C:\Users\User\Desktop\udemy kurslar\ders 22\ders 22\obj\Debug\ders 22.csprojAssemblyReference.cache
+C:\Users\User\Desktop\udemy kurslar\ders 22\ders 22\obj\Debug\ders_22.Form1.resources
+C:\Users\User\Desktop\udemy kurslar\ders 22\ders 22\obj\Debug\ders_22.Properties.Resources.resources
+C:\Users\User\Desktop\udemy kurslar\ders 22\ders 22\obj\Debug\ders 22.csproj.GenerateResource.cache
+C:\Users\User\Desktop\udemy kurslar\ders 22\ders 22\obj\Debug\ders 22.exe
+C:\Users\User\Desktop\udemy kurslar\ders 22\ders 22\obj\Debug\ders 22.pdb

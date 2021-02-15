@@ -1,0 +1,29 @@
+C:\Users\User\source\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\bin\Debug\Proje-Öğrenci Bilgi Sistemi-.exe.config
+C:\Users\User\source\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\bin\Debug\Proje-Öğrenci Bilgi Sistemi-.exe
+C:\Users\User\source\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\bin\Debug\Proje-Öğrenci Bilgi Sistemi-.pdb
+C:\Users\User\source\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\obj\Debug\Proje-Öğrenci Bilgi Sistemi-.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\obj\Debug\Proje_Öğrenci_Bilgi_Sistemi_.Form1.resources
+C:\Users\User\source\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\obj\Debug\Proje_Öğrenci_Bilgi_Sistemi_.Properties.Resources.resources
+C:\Users\User\source\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\obj\Debug\Proje-Öğrenci Bilgi Sistemi-.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\obj\Debug\Proje-Öğrenci Bilgi Sistemi-.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\obj\Debug\Proje-Öğrenci Bilgi Sistemi-.exe
+C:\Users\User\source\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\obj\Debug\Proje-Öğrenci Bilgi Sistemi-.pdb
+C:\Users\User\source\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\obj\Debug\Proje_Öğrenci_Bilgi_Sistemi_.FrmOgreciNotlar.resources
+C:\Users\User\source\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\obj\Debug\Proje_Öğrenci_Bilgi_Sistemi_.FrmOgretmen.resources
+C:\Users\User\source\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\obj\Debug\Proje_Öğrenci_Bilgi_Sistemi_.FrmKulupler.resources
+C:\Users\User\Desktop\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\bin\Debug\Proje-Öğrenci Bilgi Sistemi-.exe.config
+C:\Users\User\Desktop\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\bin\Debug\Proje-Öğrenci Bilgi Sistemi-.exe
+C:\Users\User\Desktop\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\bin\Debug\Proje-Öğrenci Bilgi Sistemi-.pdb
+C:\Users\User\Desktop\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\obj\Debug\Proje-Öğrenci Bilgi Sistemi-.csprojAssemblyReference.cache
+C:\Users\User\Desktop\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\obj\Debug\Proje_Öğrenci_Bilgi_Sistemi_.Form1.resources
+C:\Users\User\Desktop\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\obj\Debug\Proje_Öğrenci_Bilgi_Sistemi_.FrmKulupler.resources
+C:\Users\User\Desktop\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\obj\Debug\Proje_Öğrenci_Bilgi_Sistemi_.FrmOgreciNotlar.resources
+C:\Users\User\Desktop\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\obj\Debug\Proje_Öğrenci_Bilgi_Sistemi_.FrmOgretmen.resources
+C:\Users\User\Desktop\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\obj\Debug\Proje_Öğrenci_Bilgi_Sistemi_.Properties.Resources.resources
+C:\Users\User\Desktop\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\obj\Debug\Proje-Öğrenci Bilgi Sistemi-.csproj.GenerateResource.cache
+C:\Users\User\Desktop\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\obj\Debug\Proje-Öğrenci Bilgi Sistemi-.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\obj\Debug\Proje-Öğrenci Bilgi Sistemi-.exe
+C:\Users\User\Desktop\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\obj\Debug\Proje-Öğrenci Bilgi Sistemi-.pdb
+C:\Users\User\Desktop\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\obj\Debug\Proje_Öğrenci_Bilgi_Sistemi_.FrmDersler.resources
+C:\Users\User\Desktop\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\obj\Debug\Proje_Öğrenci_Bilgi_Sistemi_.Frmogrenci.resources
+C:\Users\User\Desktop\repos\Proje-Öğrenci Bilgi Sistemi-\Proje-Öğrenci Bilgi Sistemi-\obj\Debug\Proje_Öğrenci_Bilgi_Sistemi_.FrmSınavlar.resources

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\class exercise\class exercise\bin\Debug\class exercise.exe.config
+C:\Users\User\source\repos\class exercise\class exercise\bin\Debug\class exercise.exe
+C:\Users\User\source\repos\class exercise\class exercise\bin\Debug\class exercise.pdb
+C:\Users\User\source\repos\class exercise\class exercise\obj\Debug\class exercise.csprojAssemblyReference.cache
+C:\Users\User\source\repos\class exercise\class exercise\obj\Debug\class_exercise.Form1.resources
+C:\Users\User\source\repos\class exercise\class exercise\obj\Debug\class_exercise.Properties.Resources.resources
+C:\Users\User\source\repos\class exercise\class exercise\obj\Debug\class exercise.csproj.GenerateResource.cache
+C:\Users\User\source\repos\class exercise\class exercise\obj\Debug\class exercise.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\class exercise\class exercise\obj\Debug\class exercise.exe
+C:\Users\User\source\repos\class exercise\class exercise\obj\Debug\class exercise.pdb
+C:\Users\User\source\repos\class exercise\class exercise\obj\Debug\class_exercise.Form2.resources

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\iremcatak\iremcatak\obj\Debug\JonesburgCountryBasketballConferance.csprojAssemblyReference.cache
+C:\Users\User\source\repos\iremcatak\iremcatak\obj\Debug\iremcatak.Form1.resources
+C:\Users\User\source\repos\iremcatak\iremcatak\obj\Debug\iremcatak.Properties.Resources.resources
+C:\Users\User\source\repos\iremcatak\iremcatak\obj\Debug\JonesburgCountryBasketballConferance.csproj.GenerateResource.cache
+C:\Users\User\source\repos\iremcatak\iremcatak\obj\Debug\JonesburgCountryBasketballConferance.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\iremcatak\iremcatak\obj\Debug\iremcatak.exe
+C:\Users\User\source\repos\iremcatak\iremcatak\obj\Debug\iremcatak.pdb

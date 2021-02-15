@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\udemy kurslar\Pdf\Pdf\bin\Debug\Pdf.exe.config
+C:\Users\User\Desktop\udemy kurslar\Pdf\Pdf\bin\Debug\Pdf.exe
+C:\Users\User\Desktop\udemy kurslar\Pdf\Pdf\bin\Debug\Pdf.pdb
+C:\Users\User\Desktop\udemy kurslar\Pdf\Pdf\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\User\Desktop\udemy kurslar\Pdf\Pdf\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\User\Desktop\udemy kurslar\Pdf\Pdf\obj\Debug\Pdf.csprojAssemblyReference.cache
+C:\Users\User\Desktop\udemy kurslar\Pdf\Pdf\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\User\Desktop\udemy kurslar\Pdf\Pdf\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\User\Desktop\udemy kurslar\Pdf\Pdf\obj\Debug\Pdf.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\udemy kurslar\Pdf\Pdf\obj\Debug\Pdf.Form1.resources
+C:\Users\User\Desktop\udemy kurslar\Pdf\Pdf\obj\Debug\Pdf.Properties.Resources.resources
+C:\Users\User\Desktop\udemy kurslar\Pdf\Pdf\obj\Debug\Pdf.csproj.GenerateResource.cache
+C:\Users\User\Desktop\udemy kurslar\Pdf\Pdf\obj\Debug\Pdf.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\udemy kurslar\Pdf\Pdf\obj\Debug\Pdf.exe
+C:\Users\User\Desktop\udemy kurslar\Pdf\Pdf\obj\Debug\Pdf.pdb

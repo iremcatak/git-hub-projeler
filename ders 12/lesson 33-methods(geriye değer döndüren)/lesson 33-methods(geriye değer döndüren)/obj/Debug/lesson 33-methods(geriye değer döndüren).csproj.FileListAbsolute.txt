@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\udemy kurslar\lesson 33-methods(geriye değer döndüren)\lesson 33-methods(geriye değer döndüren)\bin\Debug\lesson 33-methods(geriye değer döndüren).exe.config
+C:\Users\User\Desktop\udemy kurslar\lesson 33-methods(geriye değer döndüren)\lesson 33-methods(geriye değer döndüren)\bin\Debug\lesson 33-methods(geriye değer döndüren).exe
+C:\Users\User\Desktop\udemy kurslar\lesson 33-methods(geriye değer döndüren)\lesson 33-methods(geriye değer döndüren)\bin\Debug\lesson 33-methods(geriye değer döndüren).pdb
+C:\Users\User\Desktop\udemy kurslar\lesson 33-methods(geriye değer döndüren)\lesson 33-methods(geriye değer döndüren)\obj\Debug\lesson 33-methods(geriye değer döndüren).csprojAssemblyReference.cache
+C:\Users\User\Desktop\udemy kurslar\lesson 33-methods(geriye değer döndüren)\lesson 33-methods(geriye değer döndüren)\obj\Debug\lesson_33_methods_geriye_değer_döndüren_.Form1.resources
+C:\Users\User\Desktop\udemy kurslar\lesson 33-methods(geriye değer döndüren)\lesson 33-methods(geriye değer döndüren)\obj\Debug\lesson_33_methods_geriye_değer_döndüren_.Properties.Resources.resources
+C:\Users\User\Desktop\udemy kurslar\lesson 33-methods(geriye değer döndüren)\lesson 33-methods(geriye değer döndüren)\obj\Debug\lesson 33-methods(geriye değer döndüren).csproj.GenerateResource.cache
+C:\Users\User\Desktop\udemy kurslar\lesson 33-methods(geriye değer döndüren)\lesson 33-methods(geriye değer döndüren)\obj\Debug\lesson 33-methods(geriye değer döndüren).exe
+C:\Users\User\Desktop\udemy kurslar\lesson 33-methods(geriye değer döndüren)\lesson 33-methods(geriye değer döndüren)\obj\Debug\lesson 33-methods(geriye değer döndüren).pdb

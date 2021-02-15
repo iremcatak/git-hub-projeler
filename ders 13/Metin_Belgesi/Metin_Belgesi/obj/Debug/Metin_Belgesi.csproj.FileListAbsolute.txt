@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\udemy kurslar\Metin_Belgesi\Metin_Belgesi\bin\Debug\Metin_Belgesi.exe.config
+C:\Users\User\Desktop\udemy kurslar\Metin_Belgesi\Metin_Belgesi\bin\Debug\Metin_Belgesi.exe
+C:\Users\User\Desktop\udemy kurslar\Metin_Belgesi\Metin_Belgesi\bin\Debug\Metin_Belgesi.pdb
+C:\Users\User\Desktop\udemy kurslar\Metin_Belgesi\Metin_Belgesi\obj\Debug\Metin_Belgesi.csprojAssemblyReference.cache
+C:\Users\User\Desktop\udemy kurslar\Metin_Belgesi\Metin_Belgesi\obj\Debug\Metin_Belgesi.Form1.resources
+C:\Users\User\Desktop\udemy kurslar\Metin_Belgesi\Metin_Belgesi\obj\Debug\Metin_Belgesi.Properties.Resources.resources
+C:\Users\User\Desktop\udemy kurslar\Metin_Belgesi\Metin_Belgesi\obj\Debug\Metin_Belgesi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\udemy kurslar\Metin_Belgesi\Metin_Belgesi\obj\Debug\Metin_Belgesi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\udemy kurslar\Metin_Belgesi\Metin_Belgesi\obj\Debug\Metin_Belgesi.exe
+C:\Users\User\Desktop\udemy kurslar\Metin_Belgesi\Metin_Belgesi\obj\Debug\Metin_Belgesi.pdb

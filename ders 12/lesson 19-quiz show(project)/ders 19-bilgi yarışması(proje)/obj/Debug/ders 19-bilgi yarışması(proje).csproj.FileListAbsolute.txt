@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\udemy kurslar\ders 19-bilgi yarışması(proje)\ders 19-bilgi yarışması(proje)\bin\Debug\ders 19-bilgi yarışması(proje).exe.config
+C:\Users\User\Desktop\udemy kurslar\ders 19-bilgi yarışması(proje)\ders 19-bilgi yarışması(proje)\bin\Debug\ders 19-bilgi yarışması(proje).exe
+C:\Users\User\Desktop\udemy kurslar\ders 19-bilgi yarışması(proje)\ders 19-bilgi yarışması(proje)\bin\Debug\ders 19-bilgi yarışması(proje).pdb
+C:\Users\User\Desktop\udemy kurslar\ders 19-bilgi yarışması(proje)\ders 19-bilgi yarışması(proje)\obj\Debug\ders 19-bilgi yarışması(proje).csprojAssemblyReference.cache
+C:\Users\User\Desktop\udemy kurslar\ders 19-bilgi yarışması(proje)\ders 19-bilgi yarışması(proje)\obj\Debug\ders_19_bilgi_yarışması_proje_.BilgiYarısması.resources
+C:\Users\User\Desktop\udemy kurslar\ders 19-bilgi yarışması(proje)\ders 19-bilgi yarışması(proje)\obj\Debug\ders_19_bilgi_yarışması_proje_.Properties.Resources.resources
+C:\Users\User\Desktop\udemy kurslar\ders 19-bilgi yarışması(proje)\ders 19-bilgi yarışması(proje)\obj\Debug\ders 19-bilgi yarışması(proje).csproj.GenerateResource.cache
+C:\Users\User\Desktop\udemy kurslar\ders 19-bilgi yarışması(proje)\ders 19-bilgi yarışması(proje)\obj\Debug\ders 19-bilgi yarışması(proje).exe
+C:\Users\User\Desktop\udemy kurslar\ders 19-bilgi yarışması(proje)\ders 19-bilgi yarışması(proje)\obj\Debug\ders 19-bilgi yarışması(proje).pdb

@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\oop-sheet5-q4\oop-sheet5-q4\bin\Debug\oop-sheet5-q4.exe.config
+C:\Users\User\source\repos\oop-sheet5-q4\oop-sheet5-q4\bin\Debug\oop-sheet5-q4.exe
+C:\Users\User\source\repos\oop-sheet5-q4\oop-sheet5-q4\bin\Debug\oop-sheet5-q4.pdb
+C:\Users\User\source\repos\oop-sheet5-q4\oop-sheet5-q4\obj\Debug\oop-sheet5-q4.csprojAssemblyReference.cache
+C:\Users\User\source\repos\oop-sheet5-q4\oop-sheet5-q4\obj\Debug\oop_sheet5_q4.Form1.resources
+C:\Users\User\source\repos\oop-sheet5-q4\oop-sheet5-q4\obj\Debug\oop_sheet5_q4.Properties.Resources.resources
+C:\Users\User\source\repos\oop-sheet5-q4\oop-sheet5-q4\obj\Debug\oop-sheet5-q4.csproj.GenerateResource.cache
+C:\Users\User\source\repos\oop-sheet5-q4\oop-sheet5-q4\obj\Debug\oop-sheet5-q4.exe
+C:\Users\User\source\repos\oop-sheet5-q4\oop-sheet5-q4\obj\Debug\oop-sheet5-q4.pdb

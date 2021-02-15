@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\udemy kurslar\Hata Kontrolleri\Hata Kontrolleri\bin\Debug\Hata Kontrolleri.exe.config
+C:\Users\User\Desktop\udemy kurslar\Hata Kontrolleri\Hata Kontrolleri\bin\Debug\Hata Kontrolleri.exe
+C:\Users\User\Desktop\udemy kurslar\Hata Kontrolleri\Hata Kontrolleri\bin\Debug\Hata Kontrolleri.pdb
+C:\Users\User\Desktop\udemy kurslar\Hata Kontrolleri\Hata Kontrolleri\obj\Debug\Hata Kontrolleri.csprojAssemblyReference.cache
+C:\Users\User\Desktop\udemy kurslar\Hata Kontrolleri\Hata Kontrolleri\obj\Debug\Hata_Kontrolleri.Form1.resources
+C:\Users\User\Desktop\udemy kurslar\Hata Kontrolleri\Hata Kontrolleri\obj\Debug\Hata_Kontrolleri.Properties.Resources.resources
+C:\Users\User\Desktop\udemy kurslar\Hata Kontrolleri\Hata Kontrolleri\obj\Debug\Hata Kontrolleri.csproj.GenerateResource.cache
+C:\Users\User\Desktop\udemy kurslar\Hata Kontrolleri\Hata Kontrolleri\obj\Debug\Hata Kontrolleri.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\udemy kurslar\Hata Kontrolleri\Hata Kontrolleri\obj\Debug\Hata Kontrolleri.exe
+C:\Users\User\Desktop\udemy kurslar\Hata Kontrolleri\Hata Kontrolleri\obj\Debug\Hata Kontrolleri.pdb
+C:\Users\User\Desktop\udemy kurslar\Hata Kontrolleri\Hata Kontrolleri\obj\Debug\Hata_Kontrolleri.Form2.resources
+C:\Users\User\Desktop\udemy kurslar\Hata Kontrolleri\Hata Kontrolleri\obj\Debug\Hata_Kontrolleri.Form3.resources

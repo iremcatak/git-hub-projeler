@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\udemy kurslar\ders 8\ders 8\bin\Debug\ders 8.exe.config
+C:\Users\User\Desktop\udemy kurslar\ders 8\ders 8\bin\Debug\ders 8.exe
+C:\Users\User\Desktop\udemy kurslar\ders 8\ders 8\bin\Debug\ders 8.pdb
+C:\Users\User\Desktop\udemy kurslar\ders 8\ders 8\obj\Debug\ders 8.csprojAssemblyReference.cache
+C:\Users\User\Desktop\udemy kurslar\ders 8\ders 8\obj\Debug\ders_8.Form1.resources
+C:\Users\User\Desktop\udemy kurslar\ders 8\ders 8\obj\Debug\ders_8.Properties.Resources.resources
+C:\Users\User\Desktop\udemy kurslar\ders 8\ders 8\obj\Debug\ders 8.csproj.GenerateResource.cache
+C:\Users\User\Desktop\udemy kurslar\ders 8\ders 8\obj\Debug\ders 8.exe
+C:\Users\User\Desktop\udemy kurslar\ders 8\ders 8\obj\Debug\ders 8.pdb

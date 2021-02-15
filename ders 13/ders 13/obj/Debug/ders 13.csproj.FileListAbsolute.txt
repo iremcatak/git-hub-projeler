@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\ders 13\ders 13\bin\Debug\ders 13.exe.config
+C:\Users\User\source\repos\ders 13\ders 13\bin\Debug\ders 13.exe
+C:\Users\User\source\repos\ders 13\ders 13\bin\Debug\ders 13.pdb
+C:\Users\User\source\repos\ders 13\ders 13\obj\Debug\ders 13.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ders 13\ders 13\obj\Debug\ders_13.Form1.resources
+C:\Users\User\source\repos\ders 13\ders 13\obj\Debug\ders_13.Properties.Resources.resources
+C:\Users\User\source\repos\ders 13\ders 13\obj\Debug\ders 13.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ders 13\ders 13\obj\Debug\ders 13.exe
+C:\Users\User\source\repos\ders 13\ders 13\obj\Debug\ders 13.pdb

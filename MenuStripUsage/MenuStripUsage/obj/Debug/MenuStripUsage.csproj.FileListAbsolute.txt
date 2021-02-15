@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\MenuStripUsage\MenuStripUsage\bin\Debug\MenuStripUsage.exe.config
+C:\Users\User\source\repos\MenuStripUsage\MenuStripUsage\bin\Debug\MenuStripUsage.exe
+C:\Users\User\source\repos\MenuStripUsage\MenuStripUsage\bin\Debug\MenuStripUsage.pdb
+C:\Users\User\source\repos\MenuStripUsage\MenuStripUsage\obj\Debug\MenuStripUsage.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MenuStripUsage\MenuStripUsage\obj\Debug\MenuStripUsage.Form1.resources
+C:\Users\User\source\repos\MenuStripUsage\MenuStripUsage\obj\Debug\MenuStripUsage.Properties.Resources.resources
+C:\Users\User\source\repos\MenuStripUsage\MenuStripUsage\obj\Debug\MenuStripUsage.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MenuStripUsage\MenuStripUsage\obj\Debug\MenuStripUsage.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MenuStripUsage\MenuStripUsage\obj\Debug\MenuStripUsage.exe
+C:\Users\User\source\repos\MenuStripUsage\MenuStripUsage\obj\Debug\MenuStripUsage.pdb

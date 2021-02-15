@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\udemy kurslar\lesson 31-arrays(with using foreach)\lesson 31-arrays(with using foreach)\obj\Debug\lesson 31-arrays(with using foreach).csprojAssemblyReference.cache
+C:\Users\User\Desktop\udemy kurslar\lesson 31-arrays(with using foreach)\lesson 31-arrays(with using foreach)\obj\Debug\lesson_31_arrays_with_using_foreach_.Form1.resources
+C:\Users\User\Desktop\udemy kurslar\lesson 31-arrays(with using foreach)\lesson 31-arrays(with using foreach)\obj\Debug\lesson_31_arrays_with_using_foreach_.Properties.Resources.resources
+C:\Users\User\Desktop\udemy kurslar\lesson 31-arrays(with using foreach)\lesson 31-arrays(with using foreach)\obj\Debug\lesson 31-arrays(with using foreach).csproj.GenerateResource.cache
+C:\Users\User\Desktop\udemy kurslar\lesson 31-arrays(with using foreach)\lesson 31-arrays(with using foreach)\bin\Debug\lesson 31-arrays(with using foreach).exe.config
+C:\Users\User\Desktop\udemy kurslar\lesson 31-arrays(with using foreach)\lesson 31-arrays(with using foreach)\bin\Debug\lesson 31-arrays(with using foreach).exe
+C:\Users\User\Desktop\udemy kurslar\lesson 31-arrays(with using foreach)\lesson 31-arrays(with using foreach)\bin\Debug\lesson 31-arrays(with using foreach).pdb
+C:\Users\User\Desktop\udemy kurslar\lesson 31-arrays(with using foreach)\lesson 31-arrays(with using foreach)\obj\Debug\lesson 31-arrays(with using foreach).exe
+C:\Users\User\Desktop\udemy kurslar\lesson 31-arrays(with using foreach)\lesson 31-arrays(with using foreach)\obj\Debug\lesson 31-arrays(with using foreach).pdb

@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\udemy kurslar\ders 4\ders 4\bin\Debug\ders 4.exe.config
+C:\Users\User\Desktop\udemy kurslar\ders 4\ders 4\bin\Debug\ders 4.exe
+C:\Users\User\Desktop\udemy kurslar\ders 4\ders 4\bin\Debug\ders 4.pdb
+C:\Users\User\Desktop\udemy kurslar\ders 4\ders 4\obj\Debug\ders 4.csprojAssemblyReference.cache
+C:\Users\User\Desktop\udemy kurslar\ders 4\ders 4\obj\Debug\ders_4.Form1.resources
+C:\Users\User\Desktop\udemy kurslar\ders 4\ders 4\obj\Debug\ders_4.Properties.Resources.resources
+C:\Users\User\Desktop\udemy kurslar\ders 4\ders 4\obj\Debug\ders 4.csproj.GenerateResource.cache
+C:\Users\User\Desktop\udemy kurslar\ders 4\ders 4\obj\Debug\ders 4.exe
+C:\Users\User\Desktop\udemy kurslar\ders 4\ders 4\obj\Debug\ders 4.pdb

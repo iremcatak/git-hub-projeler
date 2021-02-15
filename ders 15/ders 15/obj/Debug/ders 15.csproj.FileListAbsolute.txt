@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\udemy kurslar\ders 15\ders 15\bin\Debug\ders 15.exe.config
+C:\Users\User\Desktop\udemy kurslar\ders 15\ders 15\bin\Debug\ders 15.exe
+C:\Users\User\Desktop\udemy kurslar\ders 15\ders 15\bin\Debug\ders 15.pdb
+C:\Users\User\Desktop\udemy kurslar\ders 15\ders 15\obj\Debug\ders 15.csprojAssemblyReference.cache
+C:\Users\User\Desktop\udemy kurslar\ders 15\ders 15\obj\Debug\ders_15.Form1.resources
+C:\Users\User\Desktop\udemy kurslar\ders 15\ders 15\obj\Debug\ders_15.Properties.Resources.resources
+C:\Users\User\Desktop\udemy kurslar\ders 15\ders 15\obj\Debug\ders 15.csproj.GenerateResource.cache
+C:\Users\User\Desktop\udemy kurslar\ders 15\ders 15\obj\Debug\ders 15.exe
+C:\Users\User\Desktop\udemy kurslar\ders 15\ders 15\obj\Debug\ders 15.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\point usage\point usage\bin\Debug\point usage.exe.config
+C:\Users\User\source\repos\point usage\point usage\bin\Debug\point usage.exe
+C:\Users\User\source\repos\point usage\point usage\bin\Debug\point usage.pdb
+C:\Users\User\source\repos\point usage\point usage\obj\Debug\point usage.csprojAssemblyReference.cache
+C:\Users\User\source\repos\point usage\point usage\obj\Debug\point_usage.Form1.resources
+C:\Users\User\source\repos\point usage\point usage\obj\Debug\point_usage.Properties.Resources.resources
+C:\Users\User\source\repos\point usage\point usage\obj\Debug\point usage.csproj.GenerateResource.cache
+C:\Users\User\source\repos\point usage\point usage\obj\Debug\point usage.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\point usage\point usage\obj\Debug\point usage.exe
+C:\Users\User\source\repos\point usage\point usage\obj\Debug\point usage.pdb

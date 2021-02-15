@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\iremcatak_170201027\iremcatak_170201027\bin\Debug\iremcatak_170201027.exe.config
+C:\Users\User\source\repos\iremcatak_170201027\iremcatak_170201027\bin\Debug\iremcatak_170201027.exe
+C:\Users\User\source\repos\iremcatak_170201027\iremcatak_170201027\bin\Debug\iremcatak_170201027.pdb
+C:\Users\User\source\repos\iremcatak_170201027\iremcatak_170201027\obj\Debug\iremcatak_170201027.csprojAssemblyReference.cache
+C:\Users\User\source\repos\iremcatak_170201027\iremcatak_170201027\obj\Debug\iremcatak_170201027.Properties.Resources.resources
+C:\Users\User\source\repos\iremcatak_170201027\iremcatak_170201027\obj\Debug\iremcatak_170201027.csproj.GenerateResource.cache
+C:\Users\User\source\repos\iremcatak_170201027\iremcatak_170201027\obj\Debug\iremcatak_170201027.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\iremcatak_170201027\iremcatak_170201027\obj\Debug\iremcatak_170201027.exe
+C:\Users\User\source\repos\iremcatak_170201027\iremcatak_170201027\obj\Debug\iremcatak_170201027.pdb

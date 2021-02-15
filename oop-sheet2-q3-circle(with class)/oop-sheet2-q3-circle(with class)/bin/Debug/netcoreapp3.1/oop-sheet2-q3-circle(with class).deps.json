@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "oop-sheet2-q3-circle(with class)/1.0.0": {
+        "runtime": {
+          "oop-sheet2-q3-circle(with class).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "oop-sheet2-q3-circle(with class)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

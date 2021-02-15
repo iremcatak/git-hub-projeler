@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Animation\Animation\bin\Debug\Animation.exe.config
+C:\Users\User\source\repos\Animation\Animation\bin\Debug\Animation.exe
+C:\Users\User\source\repos\Animation\Animation\bin\Debug\Animation.pdb
+C:\Users\User\source\repos\Animation\Animation\obj\Debug\Animation.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Animation\Animation\obj\Debug\Animation.Form1.resources
+C:\Users\User\source\repos\Animation\Animation\obj\Debug\Animation.Properties.Resources.resources
+C:\Users\User\source\repos\Animation\Animation\obj\Debug\Animation.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Animation\Animation\obj\Debug\Animation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Animation\Animation\obj\Debug\Animation.exe
+C:\Users\User\source\repos\Animation\Animation\obj\Debug\Animation.pdb
